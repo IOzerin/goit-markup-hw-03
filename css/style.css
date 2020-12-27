@@ -284,7 +284,7 @@ footer address a {
 
 /* --- PORTFOLIO --- */
 .portfolio-section {
-  background: #e5e5e5;
+  background: var(--c-light);
   padding: 94px 0;
 }
 
