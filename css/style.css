@@ -125,6 +125,11 @@ header {
   letter-spacing: 0.02em;
 }
 
+.navigation-links:hover,
+.navigation-links:focus {
+  color: var(--txt-c-accent);
+}
+
 .navigation-contacts {
   color: var(--txt-c-grey);
 }
